@@ -1,0 +1,12 @@
+.elelementoPrincipal{
+    border: 10px solid black;
+}
+
+.elelementoSecundario{
+    padding: 50px;
+    background-color: aqua;
+}
+
+p{
+    font-size: large;
+}
